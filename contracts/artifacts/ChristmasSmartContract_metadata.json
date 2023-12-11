@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "sayMerryChristmas",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/HelloWorld.sol": "ChristmasSmartContract"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/HelloWorld.sol": {
+			"keccak256": "0xf2eb670f8f2e3edbc0f9e6f62ccb0714b82bbb1974f7b273329cc0595b251922",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://bfef79a2a0a09b025dc7dbf2df9c7f208efac29d6b51b9643cad8c3d11e9b2c7",
+				"dweb:/ipfs/QmY4eYh2uXrxEwykhEFfMpgqWosKrhdPEw9chLHbJq3yLP"
+			]
+		}
+	},
+	"version": 1
+}
