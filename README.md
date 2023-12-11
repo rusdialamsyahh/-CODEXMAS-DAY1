@@ -1,1 +1,4 @@
-# -CODEXMAS-DAY1
+CONTRACT : 0x38d51Fd3892BF521AE46a5E17Fd14E0D0f8F0F70
+https://sepolia.etherscan.io/address/0x38d51fd3892bf521ae46a5e17fd14e0d0f8f0f70
+
+https://sepolia.etherscan.io/tx/0x179f30a3d10606c7b8e1df1f454384a99cc4ee6be329ada170209285a9744475
